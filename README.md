@@ -1,7 +1,7 @@
 ### Hello I'm Guthierris Eduardo
 
-- 🌱 I'm learning: Java, Html+Css, Database, LGPD.
-- 👯 I am wanting to collaborate: Using my knowledge to aggregate in projects and developments.
+- 🦖 I'm learning: Java, Html+Css, Database, LGPD.
+- 🦖 I am wanting to collaborate: Using my knowledge to aggregate in projects and developments.
 
 ##
 
